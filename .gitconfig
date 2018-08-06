@@ -1,0 +1,9 @@
+[user]
+	username = sebastiendb
+	name = Sébastien De Bollivier
+	location = Reunion
+	website = http://sebastiendebollivier.com
+[commit]
+	gpgsign = true
+[aliases]
+	github = sebastiendb
